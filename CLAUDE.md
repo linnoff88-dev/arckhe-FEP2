@@ -110,7 +110,7 @@ When building course pages with HTML/Tailwind:
 - Buttons always left-aligned (`justify-start`)
 - Topic numbers in circles, not arrows
 - Each expandable topic needs 3 sections: "O que e", "Por que aprender", "Conceitos-chave"
-- Include INEMA.CLUB link (`text-sky-400`) in navigation
+- Include ARCKHÉ AI link (`text-sky-400`) in navigation
 - Include light mode CSS overrides in all pages
 - Module titles use `text-2xl`
 - Color system: Emerald (T1), Blue (T2), Purple (T3), Amber (T4), Teal (T5), Rose (T6)
