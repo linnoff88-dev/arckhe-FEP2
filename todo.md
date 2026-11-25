@@ -23,11 +23,11 @@
 - [x] `trilha1/index.html` - Index da trilha com 8 módulos
 - [x] `trilha1/modulo-1-1.html` - Entendendo Context Windows
 - [x] `trilha1/modulo-1-2.html` - Lost in the Middle
-- [x] `trilha1/modulo-1-3.html` - Chunking e Summarização
-- [x] `trilha1/modulo-1-4.html` - Estruturação de Prompts
+- [x] `trilha1/modulo-1-3.html` - Chunking e Summarizaçêo
+- [x] `trilha1/modulo-1-4.html` - Estruturaçêo de Prompts
 - [x] `trilha1/modulo-1-5.html` - Temperature e Top P
 - [x] `trilha1/modulo-1-6.html` - Sensibilidade de Prompts
-- [x] `trilha1/modulo-1-7.html` - Comparação de Modelos
+- [x] `trilha1/modulo-1-7.html` - Comparaçêo de Modelos
 - [x] `trilha1/modulo-1-8.html` - Casos de Uso por Modelo
 
 ### Conteúdo por Módulo
@@ -41,11 +41,11 @@
 - [x] Modal completo no index
 - [x] Página do módulo completa
 
-**1.3 - Chunking e Summarização** ✅
+**1.3 - Chunking e Summarizaçêo** ✅
 - [x] Modal no index (link direto)
 - [x] Página do módulo completa
 
-**1.4 - Estruturação de Prompts** ✅
+**1.4 - Estruturaçêo de Prompts** ✅
 - [x] Modal no index (link direto)
 - [x] Página do módulo completa
 
@@ -57,7 +57,7 @@
 - [x] Modal no index (link direto)
 - [x] Página do módulo completa
 
-**1.7 - Comparação de Modelos** ✅
+**1.7 - Comparaçêo de Modelos** ✅
 - [x] Modal no index (link direto)
 - [x] Página do módulo completa
 
@@ -118,7 +118,7 @@
 Antes de marcar como completo, verificar:
 
 - [ ] Botões alinhados à ESQUERDA (justify-start)
-- [ ] Números em CÍRCULO (não setas)
+- [ ] Números em CÍRCULO (nêo setas)
 - [ ] 3 seções por tópico expandível (O que é / Por que / Conceitos)
 - [ ] Link INEMA.CLUB presente (text-sky-400)
 - [ ] Light mode CSS completo
@@ -151,4 +151,4 @@ Antes de marcar como completo, verificar:
 
 ---
 
-**Última atualização:** 2026-02-03
+**Última atualizaçêo:** 2026-02-03
