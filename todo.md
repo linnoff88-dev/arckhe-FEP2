@@ -1,8 +1,8 @@
 # TODO - Prompt Engineering Masterclass
 
 > **Projeto:** Curso completo de Prompt Engineering
-> **Repositório:** https://github.com/inematds/FEP2
-> **GitHub Pages:** https://inematds.github.io/FEP2/
+> **Repositório:** https://github.com/linnoff88-dev/FEP2
+> **GitHub Pages:** https://linnoff88-dev.github.io/arckhe-/
 
 ---
 
@@ -120,7 +120,7 @@ Antes de marcar como completo, verificar:
 - [ ] Botões alinhados à ESQUERDA (justify-start)
 - [ ] Números em CÍRCULO (nêo setas)
 - [ ] 3 seções por tópico expandível (O que é / Por que / Conceitos)
-- [ ] Link INEMA.CLUB presente (text-sky-400)
+- [ ] Link ARCKHÉ AI presente (text-sky-400)
 - [ ] Light mode CSS completo
 - [ ] Título do módulo com text-2xl
 - [ ] Cores corretas da trilha
